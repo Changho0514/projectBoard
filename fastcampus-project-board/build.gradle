@@ -54,7 +54,7 @@ tasks.withType(JavaCompile) {
     options.getGeneratedSourceOutputDirectory().set(file(generated))
 }
 
-// java source set 에 querydsl QClass 위치 추가
+// java source Set 에 querydsl QClass 위치 추가
 sourceSets {
     main.java.srcDirs += [ generated ]
 }
