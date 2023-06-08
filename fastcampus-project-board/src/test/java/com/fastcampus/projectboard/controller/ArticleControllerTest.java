@@ -80,7 +80,7 @@ class ArticleControllerTest {
         
         //When & Then
         mvc.perform(get("/articles")
-                        .queryParam("searchType", searchValue)
+                        .queryParam("searchType", searchType.name())
                         .queryParam("searchValue", searchValue))
                 .andExpect(status().isOk())
                 .andExpect(content().contentTypeCompatibleWith(MediaType.TEXT_HTML))
@@ -88,7 +88,7 @@ class ArticleControllerTest {
                 .andExpect(model().attributeExists("articles"))
                 .andExpect(model().attributeExists("searchTypes"));
         
-        then(articleService).should().searchArticles(eq(null), eq(null), any(Pageable.class));
+        then(articleService).should().searchArticles(eq(searchType), eq(searchValue), any(Pageable.class));
         then(paginationService).should().getPaginationBarNumbers(anyInt(), anyInt());
         
     }
