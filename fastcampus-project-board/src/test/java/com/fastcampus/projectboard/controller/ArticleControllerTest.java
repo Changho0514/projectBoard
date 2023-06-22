@@ -135,6 +135,7 @@ class ArticleControllerTest {
         Long articleId = 1L;
         long totalCount = 1L;
         given(articleService.getArticleWithComments(articleId)).willReturn(createArticleWithCommentsDto());
+        given(articleService.getArticleCount()).willReturn(totalCount);
         
         // When & Then
         mvc.perform(get("/articles/" + articleId))
@@ -142,7 +143,6 @@ class ArticleControllerTest {
                 .andExpect(content().contentTypeCompatibleWith(MediaType.TEXT_HTML))
                 .andExpect(view().name("articles/detail"))
                 .andExpect(model().attributeExists("article"))
-                .andExpect(model().attributeExists("articleComments"))
                 .andExpect(model().attributeExists("articleComments"))
                 .andExpect(model().attribute("totalCount", totalCount));
         then(articleService).should().getArticleWithComments(articleId);
