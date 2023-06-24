@@ -19,7 +19,7 @@
             <attr sel="thead/tr">
                 <attr sel="th.title/a" th:text="'제목'" th:href="@{/articles(
             page=${articles.number},
-            sort='title' + (*{sort.getOrderFor('title')} != null ? (*{sort.getOrderFor('title').direction.name} != 'DESC' ? ',desc' : '') : ''),
+            sort='title' + (*{sort.getOrderFor('title')} != null ? (*{sort.getOerFor('title').direction.name} != 'DESC' ? ',desc' : '') : ''),
             searchType=${param.searchType},
             searchValue=${param.searchValue}
         )}"/>
@@ -53,7 +53,7 @@
             </attr>
         </attr>
 
-        <attr sel="#write-article" th:href="@{/articles/form}" />
+        <attr sel="#write-article" sec:authorize="isAuthenticated()" th:href="@{/articles/form}" />
 
         <attr sel="#pagination">
             <attr sel="li[0]/a"
