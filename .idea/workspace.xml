@@ -4,7 +4,187 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0902dd3f-623c-4268-a07c-8f8552b983c3" name="Changes" comment="" />
+    <list default="true" id="0902dd3f-623c-4268-a07c-8f8552b983c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_2_1_214.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mysema_commons_mysema_commons_lang_0_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mysql_mysql_connector_j_8_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_querydsl_codegen_utils_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_querydsl_querydsl_apt_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_querydsl_querydsl_apt_jpa_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_querydsl_querydsl_codegen_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_querydsl_querydsl_collections_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_querydsl_querydsl_core_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_querydsl_querydsl_jpa_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_istack_istack_commons_runtime_3_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_github_classgraph_classgraph_4_8_108.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_micrometer_micrometer_core_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_12_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_12_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_2_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_74.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_74.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_74.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_atteo_evo_inflector_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jdt_ecj_3_26_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_jaxb_runtime_2_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_txw2_2_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hdrhistogram_HdrHistogram_2_1_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_6_15_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_2_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_4_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_junit_jupiter_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_autoconfigure_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_configuration_processor_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_actuator_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_rest_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_security_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_thymeleaf_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_rest_core_3_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_rest_hal_explorer_3_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_rest_webmvc_3_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_hateoas_spring_hateoas_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_config_5_7_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_core_5_7_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_crypto_5_7_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_test_5_7_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_web_5_7_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_extras_thymeleaf_extras_springsecurity5_3_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_3_0_15_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring5_3_0_15_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/project-board.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/project-board.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/project-board.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/FastCampusProjectBoardApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/FastCampusProjectBoardApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/config/ThymeleafConfig$Thymeleaf3Properties.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/config/ThymeleafConfig$Thymeleaf3Properties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/config/ThymeleafConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/config/ThymeleafConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/controller/ArticleCommentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/controller/ArticleCommentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/controller/ArticleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/controller/ArticleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/ArticleComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/ArticleComment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QArticle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QArticle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QArticleComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QArticleComment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QAuditingFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QAuditingFields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QUserAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/QUserAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/UserAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/UserAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/constant/FormStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/constant/FormStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/constant/SearchType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/domain/constant/SearchType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/ArticleCommentDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/ArticleCommentDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/ArticleDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/ArticleDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/ArticleWithCommentsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/ArticleWithCommentsDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/UserAccountDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/UserAccountDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/request/ArticleCommentRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/request/ArticleCommentRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/request/ArticleRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/request/ArticleRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/response/ArticleCommentResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/response/ArticleCommentResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/response/ArticleResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/response/ArticleResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/response/ArticleWithCommentsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/response/ArticleWithCommentsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/security/BoardPrincipal$RoleType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/security/BoardPrincipal$RoleType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/security/BoardPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/dto/security/BoardPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/repository/ArticleCommentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/repository/ArticleCommentRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/repository/ArticleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/repository/ArticleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/service/ArticleCommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/service/ArticleCommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/service/ArticleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/service/ArticleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/service/PaginationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/fastcampus/projectboard/service/PaginationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/ArticleCommentControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/ArticleCommentControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/ArticleControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/ArticleControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/AuthControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/AuthControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/DataRestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/DataRestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/MainControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/controller/MainControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/repository/JpaRepositoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/repository/JpaRepositoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/service/ArticleCommentServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/service/ArticleCommentServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/service/ArticleServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/service/ArticleServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/service/PaginationServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/service/PaginationServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoderTest$TestEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoderTest$TestEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoderTest$TestObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoderTest$TestObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/fastcampus/projectboard/util/FormDataEncoderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +194,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +227,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "spring.configuration.checksum": "21a0b134ab803e0fda52b04658bb3d83",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +252,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687838350397</updated>
-      <workItem from="1687838351881" duration="374000" />
+      <workItem from="1687838351881" duration="953000" />
+      <workItem from="1687839317617" duration="78000" />
     </task>
     <servers />
   </component>
