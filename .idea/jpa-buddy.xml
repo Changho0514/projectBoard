@@ -2,6 +2,9 @@
 <project version="4">
   <component name="JpaBuddyIdeaProjectConfig">
     <option name="defaultUnitInitialized" value="true" />
+<<<<<<< Updated upstream
     <option name="renamerInitialized" value="true" />
+=======
+>>>>>>> Stashed changes
   </component>
 </project>
